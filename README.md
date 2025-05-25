@@ -12,6 +12,6 @@ With a strong foundation in operations and an evolving capability in analytics, 
 
 📊 Eager to connect with data analytics professionals and enthusiasts to collaborate, learn, and explore new opportunities in the evolving data landscape.
 
-- 🔭 I’m currently working on ... one of the indian private Bank's data for cost optimization
+- 🔭 I’m currently working on ... one of the indian private banks' data for cost optimization
 - 🌱 I’m currently learning ... Data science
 - 📫 How to reach me: ...Call @ +91 7828395362 & Email @ adeshmukh1806@gmail.com
